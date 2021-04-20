@@ -1,2 +1,5 @@
-print("hello evry body")
-hello my frend
+
+print("hello evry body;")
+hello my frend;
+
+
